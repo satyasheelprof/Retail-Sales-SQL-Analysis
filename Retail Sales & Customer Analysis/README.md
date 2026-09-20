@@ -10,13 +10,6 @@ This project analyzes retail sales data using SQL Server to generate meaningful 
 
 
 
-The project simulates a real-world Junior Data Analyst / SQL Developer workflow, starting from database design and data creation and progressing to business analysis and reusable SQL views.
-
-
-
-
-
-
 
 ##### Project Objectives
 
